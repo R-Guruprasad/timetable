@@ -104,5 +104,5 @@ Execute the program
 # OUTPUT
 ![label](./ttable.png)
 # RESULT
-The program is executed succesfully
+The program is executed succesfully.
 
